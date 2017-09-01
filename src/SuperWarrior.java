@@ -1,4 +1,4 @@
- 
+
 public class SuperWarrior extends Warrior {
 
     public SuperWarrior(String name) {
