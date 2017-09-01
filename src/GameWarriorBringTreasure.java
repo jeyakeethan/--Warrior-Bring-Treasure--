@@ -1,4 +1,4 @@
-
+ 
 public class GameWarriorBringTreasure {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-
+ 
 public class NormalFish extends Fish {
 
     public NormalFish(String name, int x, int y) {

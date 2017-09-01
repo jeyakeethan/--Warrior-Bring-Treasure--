@@ -1,4 +1,4 @@
-
+ 
 public abstract class Warrior {
 
     protected static int noOfWarriors = 0;

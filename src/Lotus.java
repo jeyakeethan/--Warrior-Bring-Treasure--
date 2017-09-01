@@ -1,4 +1,4 @@
-
+   
 public class Lotus {
 
     private String name;
